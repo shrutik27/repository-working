@@ -22,5 +22,5 @@
 ###  creating readme.md file automatically
 will use text box  from where it will take input and create a file reade.md which will be predefined usinf the fs module in node and to display readme.md file will open the file readme.md file using <Github API - Markdown on your javascript.https://github.com/evilstreak/markdown-js.>
 
-### clone option:
+### download option:
    button to download file in local system 
