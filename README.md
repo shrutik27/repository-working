@@ -19,9 +19,6 @@
  as each user can create a unique repository name so each username/reponame will be unique
  
  
- ### pull request
-user can send pull request which will take file from user and store in database if the admin accept the pull request will be merged or else will be deleted
-
 ###  creating readme.md file automatically
 will use text box  from where it will take input and create a file reade.md which will be predefined usinf the fs module in node and to display readme.md file will open the file readme.md file using <Github API - Markdown on your javascript.https://github.com/evilstreak/markdown-js.>
 
