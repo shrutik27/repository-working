@@ -25,9 +25,5 @@ user can send pull request which will take file from user and store in database 
 ###  creating readme.md file automatically
 will use text box  from where it will take input and create a file reade.md which will be predefined usinf the fs module in node and to display readme.md file will open the file readme.md file using <Github API - Markdown on your javascript.https://github.com/evilstreak/markdown-js.>
 
-### how to make search fatser:
-we sill save repository in a table which will have id equal to the id of user
-##### eg: id of user is 1 then id of repository is also 1 then query will be var query = select data where id='1'
-
 ### clone option:
    button to download file in local system 
